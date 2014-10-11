@@ -1,3 +1,18 @@
+/*By Blade Nelson
+Code based on Eric R. Weeks' mandelbrot render(http://www.physics.emory.edu/faculty/weeks//software/mandel.c), originally released under the following license:
+www.physics.emory.edu*/
+
+/**  mandel.c   by Eric R. Weeks   written 9-28-96
+ **  weeks@physics.emory.edu
+ **  http://www.physics.emory.edu/~weeks/
+ **  
+ **  This program is public domain, but this header must be left intact
+ **  and unchanged.
+ **  
+ **  to compile:  cc -o mand mandel.c
+ ** 
+ **/
+
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
